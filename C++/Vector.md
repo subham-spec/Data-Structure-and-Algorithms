@@ -31,11 +31,26 @@ Other Functions are:
     vec.empty(); --> Returns vector is empty or not.
     vec.max_size(); --> Returns maximum size of the vector
     vec.push_back(_value) --> Add value at the end of the vector.
+    vec.pop_back() --> Removes last value.
+    vec.insert(_position, _val) --> Insert val at the index.
+        _position will be : vec.begin() + index
+
+    vec.clear() --> Removes all elements from the vector.
+    vec.erase(_index) --> Removes element from the index.
+        _index : vec.begin()+index
+
     vec.at(_index) --> Return the element at index.
     vec1.swap(vec2) --> Changes the values of vec1 and vec2.
     vec.front() --> Returns the first value from front.
     vec.back() --> Returns the last value from back.
     int *pos = vec.data() --> Memory pointer for the vector.
+
+Assignment in vector
+
+    vec.assign(7, 67); --> Assign 7 times 67 in that vector.
+
+    int a[] = {1,2,3,4}
+    vec.assign(a, a+3) --> Assign complete array to the vector
 
 Changing the size of vector.
 According to the value give in it the zeroes are added or extra elements are deleted from
