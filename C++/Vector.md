@@ -29,7 +29,22 @@ Iterating over the vector
     for (auto ir = g1.crbegin(); ir != g1.crend(); ++ir) 
 		cout << *ir << " "; 
 
+Size of the vector
 
+    vec.size();
+
+Changing the size of vector.
+According to the value give in it the zeroes are added or extra elements are deleted from
+
+    vec.resize(_value);
+
+Capacity of the vector, currently assigned to it.
+
+    vec.capacity();
+
+Maximum size of the vector
+
+    vec.max_size();
 
 
 
