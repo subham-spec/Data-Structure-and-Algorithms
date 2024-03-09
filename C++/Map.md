@@ -51,14 +51,18 @@ Erases all the key value lies in between it1 till it2(excluded)
     auto it2 = mp.find(5);
     mp.erase(it1, it2);
 
-Erasing all the elements from the map. 
-It will deletes all the elements from the map
+Deleting all the elements from the map. 
     
-    mp.erase() 
+    mp.clear() 
 
+Checks whether a key and its value is there in the map
 
+    mp.count(_key) 
+    // Return true or 1, if there
 
+Deleting a particular key value from the map
 
+    mp.erase(_key)
 
 
 
