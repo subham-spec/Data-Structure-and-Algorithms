@@ -4,10 +4,6 @@ Initialization of Vector
 
     vector<int> vec; 
 
-Adding values to it.
-
-    vec.push_back(_value)
-
 Iterating over the vector
 
     // In the forward direction
@@ -29,22 +25,32 @@ Iterating over the vector
     for (auto ir = g1.crbegin(); ir != g1.crend(); ++ir) 
 		cout << *ir << " "; 
 
-Size of the vector
+Other Functions are:
 
-    vec.size();
+    vec.size(); --> Returns the size of the vector.
+    vec.empty(); --> Returns vector is empty or not.
+    vec.max_size(); --> Returns maximum size of the vector
+    vec.push_back(_value) --> Add value at the end of the vector.
+    vec.at(_index) --> Return the element at index.
+    vec1.swap(vec2) --> Changes the values of vec1 and vec2.
+    vec.front() --> Returns the first value from front.
+    vec.back() --> Returns the last value from back.
+    int *pos = vec.data() --> Memory pointer for the vector.
 
 Changing the size of vector.
 According to the value give in it the zeroes are added or extra elements are deleted from
 
-    vec.resize(_value);
+    vec.resize(new_size);
+        or
+    vec.resize(new_size, value)
+
+To delete the extra elements from the vector, after resize some elements are there in it, to make them garbage value
+
+    vec.shrink_to_fit();
 
 Capacity of the vector, currently assigned to it.
 
     vec.capacity();
-
-Maximum size of the vector
-
-    vec.max_size();
 
 
 
