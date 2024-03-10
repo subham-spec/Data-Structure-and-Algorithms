@@ -1,18 +1,27 @@
 # Completed questions
 
-## Array
+## Array - 190/1589 - 10/03/24
 
-    1929_Concatenation_of_array.cpp
-    1920_Build_an_array_from_permutation
-    2433_Find_The_Original_Array_of_Prefix_Xor
-    2942_Find_Words_Containing_Character
-    1470_Shuffle_the_Array
-    2011_Final_Value_of_Variable_After_Performing_Operations
-    1512_Number_of_Good_Pairs
+    1929 Concatenation_of_array.cpp
+    1920 Build_an_array_from_permutation
+    2433 Find_The_Original_Array_of_Prefix_Xor
+    2942 Find_Words_Containing_Character
+    1470 Shuffle_the_Array
+    2011 Final_Value_of_Variable_After_Performing_Operations
+    1512 Number_of_Good_Pairs
+    1476 Subrectangle Queries
+    1637 Widest Vertical Area Between Two Points Containing No Points
+    1672 Richest Customer Wealth
+    1282 Group the People Given the Group Size They Belong To
+    2798 Number of Employees Who Met the Target   87.5%
 
-## String
+## String - 71/674 - 10/03/24
 
-
+    1108 Defanging an IP Address
+    2011 Final Value of Variable After Performing Operations
+    1689 Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers
+    771 Jewels_and_Stones
+    2942 Find_Words_Containing_Character    88.2%
 
 
 ## Map
