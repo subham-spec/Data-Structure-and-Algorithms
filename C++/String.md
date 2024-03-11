@@ -14,3 +14,7 @@
     str.find("sub") != -1
     // If String don't have "sub" in it, then it will return -1.
 
+## Some important functions
+
+    str.length() --> Get the length of the string.
+
