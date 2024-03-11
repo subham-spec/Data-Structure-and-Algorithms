@@ -23,10 +23,18 @@
     771 Jewels_and_Stones
     2942 Find_Words_Containing_Character    88.2%
 
+## Bit Manipulation - 23/194 - 11/03/2024
+
+    2859 Sum of Values at Indices With K Set Bits	
+    1720 Decode XORed Array	
+    1486 XOR Operation in an Array
+    1342 Number of Steps to Reduce a Number to Zero
+    2220 Minimum Bit Flips to Convert Number	
+    1684 Count the Number of Consistent Strings
+    832 Flipping an Image
 
 ## Map
 
 
 
 
-## String
