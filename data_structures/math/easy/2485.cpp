@@ -2,7 +2,28 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+class Solution {
+public:
+    int pivotInteger(int n) {
+        vector<int> arr;
+        arr.push_back(1);
+        for(int i=1; i<n; i++)
+            arr.push_back(arr[i-1]+i+1);
 
+        int prev = 0, curr;
+        int remain = arr[n-1];
+
+        for(int i=0; i<n; i++) {
+            curr = arr[i];
+            if(remain-prev < curr)
+                break;
+            if(remain-prev == curr)
+                return i+1;
+            prev = curr;
+        }
+        return -1;
+    }
+};
 
 
 /*
