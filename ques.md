@@ -33,9 +33,9 @@
     1684 Count the Number of Consistent Strings
     832 Flipping an Image
 
-## Map
+## Map - 66/563
 
-
+    2610 Convert an Array Into a 2D Array With Conditions
 
 ## Math 51/485
 
