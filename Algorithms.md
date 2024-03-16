@@ -2,10 +2,13 @@
 
 ## Kadane's Algorithm
 
-    1. Subarray with maximum sum.
-    [Link](https://leetcode.com/problems/maximum-subarray/description/)
+1. Subarray with maximum sum.
+[Link](https://leetcode.com/problems/maximum-subarray/description/)
 
-    2. Contigious binary subarray with 0 sum.
+2. Contigious binary subarray with 0 sum.
+[Link](https://leetcode.com/problems/contiguous-array/description/)
+
+
 
 
 ##

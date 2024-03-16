@@ -15,6 +15,7 @@
     1282 Group the People Given the Group Size They Belong To
     2798 Number of Employees Who Met the Target
     238  Product of Array Except Self
+    525  Contigious Array
 
 ## String - 71/674
 
