@@ -18,7 +18,9 @@
     525  Contigious Array
     263  Ugly Number
     264  Ugly Number II
-
+    2733 Neither Minimum nor Maximum
+    1539 Kth Missing Positive Number
+    
 
 ## String - 71/674
 
@@ -46,9 +48,21 @@
 
     2485 Find the Pivot Integer
 
+## Priority Queue
+
+    621 Task Scheduler
+
+## Linked List
+
+    1669 Merge In Between Linked Lists
+
 ## Binary Search Algorithm
 
     0001 Logic of Normal Binary Search
+
+## Matrix
+
+    1391 Check if There is a Valid Path in a Grid
 
 
 <!-- Question list updated on 13/03/2024 -->
