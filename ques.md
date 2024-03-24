@@ -20,7 +20,7 @@
     264  Ugly Number II
     2733 Neither Minimum nor Maximum
     1539 Kth Missing Positive Number
-    
+    287. Find the Duplicate Number
 
 ## String - 71/674
 
@@ -54,7 +54,9 @@
 
 ## Linked List
 
+    206. Reverse Linked List
     1669 Merge In Between Linked Lists
+    2296 Design a Text Editor
 
 ## Binary Search Algorithm
 
