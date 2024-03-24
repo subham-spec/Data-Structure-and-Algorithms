@@ -1,6 +1,6 @@
 # Completed questions
 
-## Array - 190/1589
+## Array - 204/1599
 
     1929 Concatenation_of_array.cpp
     1920 Build_an_array_from_permutation
