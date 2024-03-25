@@ -21,6 +21,7 @@
     2733 Neither Minimum nor Maximum
     1539 Kth Missing Positive Number
     287. Find the Duplicate Number
+    442. Find All Duplicates in an Array
 
 ## String - 71/674
 
