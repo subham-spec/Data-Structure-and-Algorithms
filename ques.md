@@ -22,6 +22,7 @@
     1539 Kth Missing Positive Number
     287. Find the Duplicate Number
     442. Find All Duplicates in an Array
+    41. First Missing Positive
 
 ## String - 71/674
 
