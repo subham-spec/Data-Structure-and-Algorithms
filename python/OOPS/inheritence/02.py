@@ -1,4 +1,4 @@
-# Multiple Inheritence
+# Hierchical Inheritence
 
 class Car:
     def __init__(self, model, brand):
