@@ -3,6 +3,7 @@
 ### Class Method and Self
 ### Inheritence
 ### Encapsulation
+### Polymorphism
 ### Class Variables
 ### Static Method
 ### Property Decorators
