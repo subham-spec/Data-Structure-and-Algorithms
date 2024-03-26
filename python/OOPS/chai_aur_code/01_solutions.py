@@ -7,7 +7,6 @@ class Car:
     def getData(self):
         return f"{self.__brand} {self.__model}"
      
-# Inheritecnce
 class ElectricCar(Car):
     def __init__(self, brand, model, battery_size):
         super().__init__(brand, model)
