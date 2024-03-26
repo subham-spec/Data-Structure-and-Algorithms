@@ -1,10 +1,12 @@
 # 41. First Missing Positive
-
+from typing import List
 class Solution:
+    @staticmethod
     def swap(arr, i, j):
             arr[i], arr[j] = arr[j], arr[i]
-
+    
     def firstMissingPositive(self, nums: List[int]) -> int:
+        # print(self)
         n = len(nums)
         for i in range(n):
             while 0 < nums[i] <= n and nums[i] != nums[nums[i] - 1]:
@@ -15,6 +17,11 @@ class Solution:
                 return i + 1
         
         return n + 1
+    
+if __name__ == "__main__":
+    arr = [3,1,4,-1]
+    ans = Solution().firstMissingPositive(arr)
+    print('The missing number is ',ans)
 
 '''
 Given an unsorted integer array nums. Return the smallest positive integer that is not present in nums.
