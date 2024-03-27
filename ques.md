@@ -1,6 +1,6 @@
 # Completed questions
 
-## Array - 204/1599
+## Array - 205/1602
 
     1929 Concatenation_of_array.cpp
     1920 Build_an_array_from_permutation
@@ -23,6 +23,7 @@
     287. Find the Duplicate Number
     442. Find All Duplicates in an Array
     41. First Missing Positive
+    713. Subarray Product Less Than K
 
 ## String - 71/674
 
@@ -67,6 +68,10 @@
 ## Matrix
 
     1391 Check if There is a Valid Path in a Grid
+
+## Graph
+
+    841. Keys and Rooms
 
 
 <!-- Question list updated on 13/03/2024 -->
