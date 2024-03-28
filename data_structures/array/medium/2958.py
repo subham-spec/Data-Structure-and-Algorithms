@@ -1,5 +1,5 @@
 # 2958. Length of Longest Subarray With at Most K Frequency
-
+from typing import List
 class Solution:
     def maxSubarrayLength(self, nums: List[int], k: int) -> int:
         my_dict = dict()
