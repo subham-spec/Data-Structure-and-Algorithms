@@ -24,6 +24,7 @@
     442. Find All Duplicates in an Array
     41. First Missing Positive
     713. Subarray Product Less Than K
+    2958. Length of Longest Subarray With at Most K Frequency
 
 ## String - 71/674
 
