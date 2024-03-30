@@ -1,5 +1,5 @@
 # 992. Subarrays with K Different Integers
-from typing import List
+from typing import List, Counter
 class Solution:
     def countSubarraysWithAtMostKDistinct(self, nums: List[int], k: int) -> int:
         n = len(nums)
