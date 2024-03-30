@@ -25,6 +25,7 @@
     41. First Missing Positive
     713. Subarray Product Less Than K
     2958. Length of Longest Subarray With at Most K Frequency
+    992. Subarrays with K Different Integers ***
 
 ## String - 71/674
 
