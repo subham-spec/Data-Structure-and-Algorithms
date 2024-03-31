@@ -1,4 +1,4 @@
-# Completed questions
+# Completed questions - 407/3102 / 785 || 1628 || 689
 
 ## Array - 205/1602
 
@@ -33,9 +33,10 @@
     1108 Defanging an IP Address
     2011 Final Value of Variable After Performing Operations
     1689 Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers
-    771 Jewels_and_Stones
+    771  Jewels_and_Stones
     2942 Find_Words_Containing_Character
     819. Most Common Word *** [Amazon]
+    20.  valid Parenthesis * [Amazon]
 
 ## Bit Manipulation - 23/194 - 11/03/2024
 
@@ -64,6 +65,7 @@
     206. Reverse Linked List
     1669 Merge In Between Linked Lists
     2296 Design a Text Editor
+    21.  Merge Two Sorted List * [Amazon]
 
 ## Binary Search Algorithm
 
