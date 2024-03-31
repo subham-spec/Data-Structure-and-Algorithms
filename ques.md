@@ -22,10 +22,11 @@
     1539 Kth Missing Positive Number
     287. Find the Duplicate Number
     442. Find All Duplicates in an Array
-    41. First Missing Positive
+    41.  First Missing Positive
     713. Subarray Product Less Than K
-    2958. Length of Longest Subarray With at Most K Frequency
+    2958 Length of Longest Subarray With at Most K Frequency
     992. Subarrays with K Different Integers ***
+    2444 Count Subarrays With Fixed Bounds ***
 
 ## String - 71/674
 
@@ -44,7 +45,7 @@
     1342 Number of Steps to Reduce a Number to Zero
     2220 Minimum Bit Flips to Convert Number	
     1684 Count the Number of Consistent Strings
-    832 Flipping an Image
+    832  Flipping an Image
 
 ## Map - 66/563
 
