@@ -38,6 +38,7 @@
     819. Most Common Word *** [Amazon]
     20.  valid Parenthesis * [Amazon]
     58.  Length of Last Word
+    205. Isomorphic Strings
 
 ## Bit Manipulation - 23/194 - 11/03/2024
 
