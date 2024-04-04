@@ -40,6 +40,7 @@
     20.  valid Parenthesis * [Amazon]
     58.  Length of Last Word
     205. Isomorphic Strings
+    1614 Maximum Nesting Depth of the Parentheses
 
 ## Bit Manipulation - 23/194 - 11/03/2024
 
