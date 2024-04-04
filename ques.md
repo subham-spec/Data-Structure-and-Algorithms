@@ -1,6 +1,6 @@
 # Completed questions - 407/3102 / 785 || 1628 || 689
 
-## Array - 205/1602
+## Array 1602
 
     1929 Concatenation_of_array.cpp
     1920 Build_an_array_from_permutation
@@ -43,6 +43,7 @@
     58.  Length of Last Word
     205. Isomorphic Strings
     1614 Maximum Nesting Depth of the Parentheses
+    387. First Unique Character in a String * [Amazon]
 
 ## Stack 
 
