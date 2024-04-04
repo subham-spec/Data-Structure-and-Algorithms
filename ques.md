@@ -28,6 +28,7 @@
     992. Subarrays with K Different Integers ***
     2444 Count Subarrays With Fixed Bounds ***
     79.  Word Search **
+    121. Best Time to Buy and Sell Stock * [Amazon]
 
 ## String - 71/674
 
