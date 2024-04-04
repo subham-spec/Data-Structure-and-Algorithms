@@ -43,6 +43,10 @@
     205. Isomorphic Strings
     1614 Maximum Nesting Depth of the Parentheses
 
+## Stack 
+
+    155. Min Stack *** [Amazon]
+
 ## Bit Manipulation - 23/194 - 11/03/2024
 
     2859 Sum of Values at Indices With K Set Bits	
