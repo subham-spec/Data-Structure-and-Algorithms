@@ -44,6 +44,7 @@
     205. Isomorphic Strings
     1614 Maximum Nesting Depth of the Parentheses
     387. First Unique Character in a String * [Amazon]
+    1544 Make The String Great
 
 ## Stack 
 
