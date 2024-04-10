@@ -1,4 +1,6 @@
 # 950. Reveal Cards In Increasing Order
+from collections import deque
+from typing import List
 
 class Solution:
     def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:
