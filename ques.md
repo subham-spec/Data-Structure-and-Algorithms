@@ -2,8 +2,6 @@
 
 ## Array 1602
 
-    1929 Concatenation_of_array.cpp
-    1920 Build_an_array_from_permutation
     2433 Find_The_Original_Array_of_Prefix_Xor
     2942 Find_Words_Containing_Character
     1470 Shuffle_the_Array
@@ -39,8 +37,6 @@
     771  Jewels_and_Stones
     2942 Find_Words_Containing_Character
     819. Most Common Word *** [Amazon]
-    20.  valid Parenthesis * [Amazon]
-    58.  Length of Last Word
     205. Isomorphic Strings
     1614 Maximum Nesting Depth of the Parentheses
     387. First Unique Character in a String * [Amazon]
@@ -74,14 +70,7 @@
 
 ## Linked List
 
-    206. Reverse Linked List
-    1669 Merge In Between Linked Lists
     2296 Design a Text Editor
-    21.  Merge Two Sorted List * [Amazon]
-
-## Binary Search Algorithm
-
-    0001 Logic of Normal Binary Search
 
 ## Matrix
 
