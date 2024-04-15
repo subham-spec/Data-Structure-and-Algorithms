@@ -2,8 +2,6 @@
 
 ## Array 1602
 
-    2433 Find_The_Original_Array_of_Prefix_Xor
-    2942 Find_Words_Containing_Character
     1470 Shuffle_the_Array
     2011 Final_Value_of_Variable_After_Performing_Operations
     1512 Number_of_Good_Pairs
