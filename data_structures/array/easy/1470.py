@@ -1,22 +1,22 @@
-#include <bits/stdc++.h>
-using namespace std;
+# 1470 Shuffle the array
 
-vector<int> shuffle(vector<int>& nums, int n) {
-        vector<int> ans;
-        int i=0, j=n;
-        while(i<n){
-            ans.push_back(nums[i++]);
-            ans.push_back(nums[j++]);
-        }
-        return ans;
-    }
-
+from typing import List
+class Solution:
+    def shuffle(self, nums: List[int], n: int) -> List[int]:
+        ans = []
+        j = n
+        for i in range(0, n):
+            ans.append(nums[i])
+            ans.append(nums[j])
+            i += 1
+            j += 1
+        return ans
+    
+'''
 /*
 Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
 
 Return the array in the form [x1,y1,x2,y2,...,xn,yn].
-
- 
 
 Example 1:
 
@@ -39,3 +39,4 @@ Constraints:
 nums.length == 2n
 1 <= nums[i] <= 10^3
 */
+'''
