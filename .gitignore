@@ -1,0 +1,3 @@
+# These files will be ignored to push over github
+
+.DS_Store
